@@ -1,9 +1,9 @@
 1.Team Members
-Cao Chen UID:
+Cao Chen UID:3036100507
 Hu Jiarui UID:3033108211
 Xiao Donglu UID:3036100820
 Xie Yadong UID:3036052231
-Yang Liuhaichen UID:3036101642s
+Yang Liuhaichen UID:3036101642
 
 2.Description and Rules of the game
 2.1 Game Structure
